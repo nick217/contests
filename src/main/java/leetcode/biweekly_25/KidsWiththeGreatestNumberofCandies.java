@@ -1,4 +1,4 @@
-package contests.leetcode_biweekly_25;
+package leetcode.biweekly_25;
 
 import java.util.ArrayList;
 import java.util.List;

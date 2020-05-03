@@ -1,6 +1,6 @@
-package contests.leetcode_biweekly_25;
+package leetcode.biweekly_25;
 
-/*
+/* Link: https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/
  * You are given an integer num. You will apply the following steps exactly two times:
  * Pick a digit x (0 <= x <= 9).
  * Pick another digit y (0 <= y <= 9). The digit y can be equal to x.
