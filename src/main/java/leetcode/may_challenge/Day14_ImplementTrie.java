@@ -104,6 +104,8 @@ public class Day14_ImplementTrie {
 		Trie obj = new Trie();
 		obj.insert("apple");
 		boolean param_2 = obj.search("app");
+		System.out.println(param_2);
 		boolean param_3 = obj.startsWith("app");
+		System.out.println(param_3);
 	}
 }
